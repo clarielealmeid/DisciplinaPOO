@@ -2,6 +2,7 @@ Projeto de Casa Inteligente da disciplina de Programação Orientada a Objetos (
 Aluna: Clariele Almeida
 
 O objetivo desse projeto é criar um sistema de casa inteligente utilizando conceitos de POO, máquina de estados, padrões de projeto e outras funções vistas em sala. 
+Link do vídeo explicativo: https://youtu.be/fxipk9FMgFk
 
 # Imports
 
