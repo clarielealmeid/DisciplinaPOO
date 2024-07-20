@@ -4,9 +4,13 @@ Aluna: Clariele Almeida
 O objetivo desse projeto é criar um sistema de casa inteligente utilizando conceitos de POO, máquina de estados, padrões de projeto e outras funções vistas em sala. 
 
 # Imports
+
 import argparse
+
 from abc import ABC, abstractmethod
+
 from transitions import Machine
+
 from functools import reduce
 
 # Descrição do projeto;
